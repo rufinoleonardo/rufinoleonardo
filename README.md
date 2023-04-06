@@ -6,7 +6,7 @@
 ### It's a pleasure to have you here!
 
     - 🔭 currently working on automating processes in google spreadsheets
-    - 🌱 learning full stack Javascript
+    - 🌱 learning NodeJs and C#
     - 😄 Pronouns: He/him
     
 

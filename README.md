@@ -5,8 +5,7 @@
 ## Hello! I'm Leo.
 ### It's a pleasure to have you here!
 
-    - 🔭 currently working on automating processes in google spreadsheets
-    - 🌱 learning NodeJs and C#
+    - 🌱 learning ReactJs and SASS
     - 😄 Pronouns: He/him
     
 

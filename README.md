@@ -30,9 +30,7 @@
     <img align="center" alt="Leo-CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Leo-Python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-    <img align="center" alt="Leo-Python" height="30" width="40"
-        src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)">  
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
 <hr>     
 <img style="width: 100%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufinoleonardo&layout=compact&langs_count=7&theme=dracula" />

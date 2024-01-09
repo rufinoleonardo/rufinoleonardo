@@ -5,7 +5,7 @@
 ## Hello! I'm Leo.
 ### It's a pleasure to have you here!
 
-    - 🌱 learning ReactJs and SASS
+    - 🌱 learning ReactJs and TS
     - 😄 Pronouns: He/him
     
 
@@ -20,6 +20,8 @@
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Leo-Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Leo-Ts" height="30" width="40"
+        src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
      <img align="center" alt="Leo-as" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg">
     <!--
     <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

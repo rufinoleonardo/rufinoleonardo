@@ -18,8 +18,6 @@
     <img alt="icon-ReactJs" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="icon-NextJs" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img alt="icon-Tailwind" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><br/><br/>
-    <img alt="icon-c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" width="40" align="center" />
-    <img alt="icon-dotNetCore" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img alt="icon-MySQL" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="icon-Firebase" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
     <img alt="icon-as" align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Apps_Script.svg"/>

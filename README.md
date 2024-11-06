@@ -1,7 +1,7 @@
 ## Hello! I'm Leo.
 ### It's a pleasure to have you here!
 
-    - 🌱 learning ReactJs/NextJS with TS;
+    - 🌱 learning mobile development with React Native;
     - 😄 Pronouns: He/him
     
 <a href="https://github.com/rufinoleonardo">

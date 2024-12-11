@@ -1,16 +1,20 @@
 ## Hello! I'm Leo.
 ### It's a pleasure to have you here!
 
-    - 🌱 learning mobile development with React Native;
+    - 🌱 learning mobile development with Kotlin, Android Studio and Spring Framework.
     - 😄 Pronouns: He/him
     
 <a href="https://github.com/rufinoleonardo">
 
 <div style="display: inline_block" align="center">
+    <img alt="AndroidStudio icon" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+    <img alt="Kotlin icon" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+    <img alt="Spring FrameWork icon" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img alt="Figma Design icon" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+    <br/><br/>
     <img alt="icon-ReactJs" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img alt="icon-NextJs" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img alt="icon-Tailwind" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="icon-Figma" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img alt="icon-JS" align="center" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img alt="icon-TS" align="center" height="30" width="40"

@@ -1,7 +1,7 @@
-## Hello! I'm Leo.
+## Hello! I'm Leo, a mobile and web developer.
 ### It's a pleasure to have you here!
 
-    - 🌱 learning mobile development with Kotlin, Android Studio and Spring Framework.
+    - 🌱 learning more about mobile development.
     - 😄 Pronouns: He/him
     
 <a href="https://github.com/rufinoleonardo">
